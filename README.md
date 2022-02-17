@@ -1,3 +1,3 @@
 # To make automatic stock program
 
-Just do it!
+I can do it!
